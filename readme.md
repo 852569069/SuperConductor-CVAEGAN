@@ -1,4 +1,4 @@
-# High Tc superconductor composition Inverse Design model
+# High Tc Superconductor Composition Inverse Design Model
 
 # Useage
 
